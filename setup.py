@@ -35,6 +35,7 @@ setup(
         "torch>=2.0.0",
         "torchaudio>=2.0.0",
         "silero-vad",
+        "onnxruntime",
         "s3prl",
         "openai-whisper",
         "peft",
